@@ -8,8 +8,9 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
-    }
+    } 
   ],
+   
   "cats": [{
       "catName": "Stanley",
       "catBreed": "Tabby",
